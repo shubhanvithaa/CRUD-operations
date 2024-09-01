@@ -85,7 +85,7 @@ app.delete('/students/:id', async(req,res) =>{
 
 mongoose.set("strictQuery",false)
 mongoose.
-connect('')
+connect('')//add connection url 
 .then(() => {
     console.log('connected to MongoDB')
     app.listen(3000, ()=> {
