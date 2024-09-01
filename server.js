@@ -85,7 +85,7 @@ app.delete('/students/:id', async(req,res) =>{
 
 mongoose.set("strictQuery",false)
 mongoose.
-connect('mongodb+srv://subbb:oYcU9YK0yWiwYRRW@students.xib868h.mongodb.net/node-api?retryWrites=true&w=majority&appName=students')
+connect('')
 .then(() => {
     console.log('connected to MongoDB')
     app.listen(3000, ()=> {
