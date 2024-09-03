@@ -7,7 +7,7 @@ PRE REQUISITES:
 Create a Application.
 Connect your application to MongoDb
 Build a model (ex. student database)
-Use a model to save data in MongoDb-->POST
+Use a model to save data in MongoDb-->POST.
 ![Screenshot 2024-09-01 164854](https://github.com/user-attachments/assets/2233cf27-cf94-462b-b2a6-b240ad21da56)
 
 ![Screenshot 2024-09-01 164650](https://github.com/user-attachments/assets/0baf4a9d-8631-4a8f-873d-b32da1439691)
